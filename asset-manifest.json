@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/priam/static/css/main.124f2e5a.css",
-    "main.js": "/priam/static/js/main.8d319166.js",
-    "static/js/453.8d565830.chunk.js": "/priam/static/js/453.8d565830.chunk.js",
-    "static/media/aerostride.jpg": "/priam/static/media/aerostride.03c5665c071f6e8f7105.jpg",
-    "index.html": "/priam/index.html",
-    "main.124f2e5a.css.map": "/priam/static/css/main.124f2e5a.css.map",
-    "main.8d319166.js.map": "/priam/static/js/main.8d319166.js.map",
-    "453.8d565830.chunk.js.map": "/priam/static/js/453.8d565830.chunk.js.map"
+    "main.css": "/PRIAM/static/css/main.9d4decd6.css",
+    "main.js": "/PRIAM/static/js/main.432243ff.js",
+    "static/js/453.8d565830.chunk.js": "/PRIAM/static/js/453.8d565830.chunk.js",
+    "static/media/aerostride.jpg": "/PRIAM/static/media/aerostride.03c5665c071f6e8f7105.jpg",
+    "index.html": "/PRIAM/index.html",
+    "main.9d4decd6.css.map": "/PRIAM/static/css/main.9d4decd6.css.map",
+    "main.432243ff.js.map": "/PRIAM/static/js/main.432243ff.js.map",
+    "453.8d565830.chunk.js.map": "/PRIAM/static/js/453.8d565830.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.124f2e5a.css",
-    "static/js/main.8d319166.js"
+    "static/css/main.9d4decd6.css",
+    "static/js/main.432243ff.js"
   ]
 }
